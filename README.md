@@ -1,0 +1,2 @@
+# SMARTPHONE-SELECTION-RECOMMENDATION-SYSTEM-FOR-STUDENTS-JAVA-WEB-BASED
+A Java Web - Based application that assists users in choosing a smartphone according to their needs.
